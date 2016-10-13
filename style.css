@@ -1,0 +1,16 @@
+#div1 {
+    border: 1px solid black;
+}
+button {
+    background-color: #428cba;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    cursor: pointer;
+    hover:
+}
+button:hover {
+  opacity: 0.6;
+}
